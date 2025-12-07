@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokeRun</string>
+    
+    <!-- Navigation -->
+    <string name="register_run">Registrar carrera</string>
+    <string name="my_bag">Mi mochila</string>
+    <string name="my_pokemon">Mis Pokémon</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="settings">Opciones</string>
+    
+    <!-- Workout -->
+    <string name="start_workout">Iniciar entrenamiento</string>
+    <string name="stop_workout">Pausar</string>
+    <string name="finish_workout">Finalizar</string>
+    <string name="distance">Distancia</string>
+    <string name="steps">Pasos</string>
+    <string name="time">Tiempo</string>
+    <string name="manual_distance">Entrada Manual</string>
+    <string name="enter_distance">Distancia recorrida</string>
+    <string name="save_manual_workout">Guardar entrenamiento</string>
+    <string name="pokemon_image">Imagen del Pokémon</string>
+    <string name="no_step_sensor">Tu dispositivo no tiene sensor de pasos. Usa la entrada manual.</string>
+    <string name="workout_saved">¡Entrenamiento guardado!</string>
+    <string name="workout_rewards">Has ganado %1$d huevo(s) y %2$d caramelo(s)</string>
+    <string name="enter_valid_distance">Ingresa una distancia válida</string>
+    <string name="connect_strava">Conectar con Strava</string>
+    <string name="strava_coming_soon">Conexión con Strava próximamente</string>
+    
+    <!-- Bag -->
+    <string name="eggs">Huevos Pokémon</string>
+    <string name="rare_candies">Caramelos raros</string>
+    <string name="open_egg">Abrir huevo (cuesta 1 caramelo)</string>
+    <string name="egg_opened">¡Huevo abierto! Has obtenido: %1$s</string>
+    <string name="egg_opened_title">¡Felicidades!</string>
+    <string name="egg_opened_message">¡Has obtenido a %1$s!</string>
+    <string name="not_enough_candies">No tienes suficientes caramelos raros</string>
+    <string name="no_eggs">No tienes huevos</string>
+    <string name="bag_tip">Corre más de 5 km para ganar huevos y caramelos.\nAbrir un huevo cuesta 1 caramelo raro.</string>
+    <string name="error_opening_egg">Error al abrir el huevo</string>
+    <string name="all_pokemon_obtained">¡Ya tienes todos los Pokémon disponibles!</string>
+    
+    <!-- Pokemon -->
+    <string name="no_pokemon">Aún no has obtenido ningún Pokémon</string>
+    <string name="evolve">Evolucionar</string>
+    <string name="evolution_success">¡Enhorabuena!\n\nTu %1$s ha evolucionado a %2$s</string>
+    <string name="evolution_success_title">¡Evolución completada!</string>
+    <string name="not_enough_candies_evolve">Necesitas 1 caramelo raro para evolucionar</string>
+    <string name="evolution_confirm">¿Evolucionar %1$s a %2$s?\n\nCosto: 1 caramelo raro</string>
+    
+    <!-- Settings -->
+    <string name="language">Idioma</string>
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+    <string name="distance_unit">Unidad de distancia</string>
+    <string name="kilometers">Kilómetros</string>
+    <string name="miles">Millas</string>
+    <string name="language_changed">Idioma cambiado a %1$s</string>
+    <string name="unit_changed">Unidad cambiada a %1$s</string>
+    
+    <!-- Pokedex -->
+    <string name="pokemon_info">Información del Pokémon</string>
+    <string name="unlocked">Desbloqueado</string>
+    <string name="locked">Bloqueado</string>
+    
+    <!-- Common -->
+    <string name="km">km</string>
+    <string name="mi">mi</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Rare Candy - Caramelo Raro estilo Pokémon -->
+    <!-- Envoltura exterior azul claro -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M24,6L6,24L24,42L42,24Z" />
+    
+    <!-- Brillo superior izquierdo -->
+    <path
+        android:fillColor="#81D4FA"
+        android:pathData="M24,6L12,18L24,24L36,18Z" />
+    
+    <!-- Sombra inferior derecha -->
+    <path
+        android:fillColor="#29B6F6"
+        android:pathData="M24,42L36,30L24,24L12,30Z" />
+    
+    <!-- Lado izquierdo -->
+    <path
+        android:fillColor="#4DD0E1"
+        android:pathData="M6,24L12,18L12,30Z" />
+    
+    <!-- Lado derecho (sombra) -->
+    <path
+        android:fillColor="#0288D1"
+        android:pathData="M42,24L36,18L36,30Z" />
+    
+    <!-- Centro brillante (caramelo interior) -->
+    <path
+        android:fillColor="#E1F5FE"
+        android:pathData="M24,14L16,22L24,30L32,22Z" />
+    
+    <!-- Brillo del centro -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,14L18,20L24,22L30,20Z" />
+    
+    <!-- Punto de brillo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,18 A2,2 0 1,1 20,18.01" />
+    
+    <!-- Estrella decorativa arriba -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M24,2L25,5L28,5L26,7L27,10L24,8L21,10L22,7L20,5L23,5Z" />
+    
+    <!-- Estrella decorativa abajo -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M24,46L25,43L28,43L26,41L27,38L24,40L21,38L22,41L20,43L23,43Z" />
+</vector>

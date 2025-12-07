@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Huevo Pokémon - Forma ovalada con manchas -->
+    
+    <!-- Sombra -->
+    <path
+        android:fillColor="#20000000"
+        android:pathData="M24,46C32,46 38,44 38,42C38,40 32,38 24,38C16,38 10,40 10,42C10,44 16,46 24,46Z" />
+    
+    <!-- Cuerpo del huevo (base verde claro) -->
+    <path
+        android:fillColor="#A8E6CF"
+        android:pathData="M24,4C14,4 8,18 8,28C8,38 14,44 24,44C34,44 40,38 40,28C40,18 34,4 24,4Z" />
+    
+    <!-- Brillo lateral izquierdo -->
+    <path
+        android:fillColor="#C8F7DC"
+        android:pathData="M16,10C12,14 10,22 10,28C10,34 12,38 16,40C12,36 10,30 12,22C14,14 16,10 16,10Z" />
+    
+    <!-- Mancha grande 1 (superior derecha) -->
+    <path
+        android:fillColor="#56C596"
+        android:pathData="M28,10C32,10 34,14 34,18C34,22 30,24 26,22C22,20 22,14 26,12C27,11 28,10 28,10Z" />
+    
+    <!-- Mancha grande 2 (centro izquierda) -->
+    <path
+        android:fillColor="#56C596"
+        android:pathData="M14,22C12,24 12,28 14,30C16,32 20,32 22,28C24,24 22,20 18,20C16,20 14,22 14,22Z" />
+    
+    <!-- Mancha grande 3 (inferior derecha) -->
+    <path
+        android:fillColor="#56C596"
+        android:pathData="M30,30C34,30 36,34 34,38C32,40 28,40 26,36C24,32 28,30 30,30Z" />
+    
+    <!-- Mancha pequeña 1 -->
+    <path
+        android:fillColor="#56C596"
+        android:pathData="M18,12C17,12 16,13 16,14C16,15 17,16 18,16C19,16 20,15 20,14C20,13 19,12 18,12Z" />
+    
+    <!-- Mancha pequeña 2 -->
+    <path
+        android:fillColor="#56C596"
+        android:pathData="M32,24C31,24 30,25 30,26C30,27 31,28 32,28C33,28 34,27 34,26C34,25 33,24 32,24Z" />
+    
+    <!-- Brillo superior (reflejo) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,8C18,10 18,12 20,12C22,12 24,10 22,8C21,7 20,8 20,8Z" />
+    
+</vector>
+
+
+
+
+
+

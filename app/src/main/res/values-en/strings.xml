@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokeRun</string>
+    
+    <!-- Navigation -->
+    <string name="register_run">Register Run</string>
+    <string name="my_bag">My Bag</string>
+    <string name="my_pokemon">My Pokémon</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Workout -->
+    <string name="start_workout">Start Workout</string>
+    <string name="stop_workout">Pause</string>
+    <string name="finish_workout">Finish</string>
+    <string name="distance">Distance</string>
+    <string name="steps">Steps</string>
+    <string name="time">Time</string>
+    <string name="manual_distance">Manual Entry</string>
+    <string name="enter_distance">Distance covered</string>
+    <string name="save_manual_workout">Save Workout</string>
+    <string name="pokemon_image">Pokémon image</string>
+    <string name="no_step_sensor">Your device doesn\'t have a step sensor. Use manual entry.</string>
+    <string name="workout_saved">Workout saved!</string>
+    <string name="workout_rewards">You earned %1$d egg(s) and %2$d candy(ies)</string>
+    <string name="enter_valid_distance">Enter a valid distance</string>
+    <string name="connect_strava">Connect with Strava</string>
+    <string name="strava_coming_soon">Strava connection coming soon</string>
+    
+    <!-- Bag -->
+    <string name="eggs">Pokémon Eggs</string>
+    <string name="rare_candies">Rare Candies</string>
+    <string name="open_egg">Open Egg (costs 1 candy)</string>
+    <string name="egg_opened">Egg opened! You got: %1$s</string>
+    <string name="egg_opened_title">Congratulations!</string>
+    <string name="egg_opened_message">You got %1$s!</string>
+    <string name="not_enough_candies">You don\'t have enough rare candies</string>
+    <string name="no_eggs">You don\'t have any eggs</string>
+    <string name="bag_tip">Run more than 5km to earn eggs and candies.\nOpening an egg costs 1 rare candy.</string>
+    <string name="error_opening_egg">Error opening egg</string>
+    <string name="all_pokemon_obtained">You already have all available Pokémon!</string>
+    
+    <!-- Pokemon -->
+    <string name="no_pokemon">You haven\'t obtained any Pokémon yet</string>
+    <string name="evolve">Evolve</string>
+    <string name="evolution_success">Congratulations!\n\nYour %1$s has evolved into %2$s</string>
+    <string name="evolution_success_title">Evolution complete!</string>
+    <string name="not_enough_candies_evolve">You need 1 rare candy to evolve</string>
+    <string name="evolution_confirm">Evolve %1$s to %2$s?\n\nCost: 1 rare candy</string>
+    
+    <!-- Settings -->
+    <string name="language">Language</string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+    <string name="distance_unit">Distance Unit</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="miles">Miles</string>
+    <string name="language_changed">Language changed to %1$s</string>
+    <string name="unit_changed">Unit changed to %1$s</string>
+    
+    <!-- Pokedex -->
+    <string name="pokemon_info">Pokémon Information</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="locked">Locked</string>
+    
+    <!-- Common -->
+    <string name="km">km</string>
+    <string name="mi">mi</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema principal MasterBall -->
+    <style name="Theme.PokeRun" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Colores principales MasterBall -->
+        <item name="colorPrimary">@color/masterball_purple</item>
+        <item name="colorPrimaryVariant">@color/masterball_purple_dark</item>
+        <item name="colorOnPrimary">@color/masterball_white</item>
+        
+        <!-- Colores secundarios -->
+        <item name="colorSecondary">@color/masterball_pink</item>
+        <item name="colorSecondaryVariant">@color/masterball_magenta</item>
+        <item name="colorOnSecondary">@color/masterball_white</item>
+        
+        <!-- Fondo -->
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        
+        <!-- Otros -->
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/masterball_white</item>
+        
+        <!-- Status bar y navigation bar -->
+        <item name="android:statusBarColor">@color/masterball_purple_dark</item>
+        <item name="android:navigationBarColor">@color/masterball_purple</item>
+        
+        <!-- Bottom Navigation -->
+        <item name="bottomNavigationStyle">@style/Widget.PokeRun.BottomNavigationView</item>
+    </style>
+    
+    <!-- Estilo para Bottom Navigation MasterBall -->
+    <style name="Widget.PokeRun.BottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="backgroundTint">@color/masterball_purple</item>
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <item name="itemRippleColor">@color/masterball_pink</item>
+    </style>
+    
+    <!-- Estilo para botones -->
+    <style name="Widget.PokeRun.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/masterball_purple</item>
+        <item name="android:textColor">@color/masterball_white</item>
+    </style>
+    
+    <!-- Estilo para Cards -->
+    <style name="Widget.PokeRun.CardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/surface_light</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">12dp</item>
+    </style>
+</resources>
